@@ -1,7 +1,6 @@
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
 D:\Unity\CapstonePrototype\Temp\bin\Debug\nunit.framework.dll
-D:\Unity\CapstonePrototype\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\UnityEditor.Advertisements.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\UnityEditor.Analytics.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\UnityEditor.dll
@@ -31,7 +30,6 @@ D:\Unity\CapstonePrototype\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Unity.UNetWeaver.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Mono.Cecil.Mdb.dll
-D:\Unity\CapstonePrototype\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Unity.CecilTools.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Mono.Cecil.Pdb.dll
 D:\Unity\CapstonePrototype\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
